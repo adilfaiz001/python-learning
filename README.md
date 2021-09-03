@@ -4,3 +4,5 @@ This repository is set to track the learning of python skills from beginner to a
 
 
 #### PHASE I
+- [ ] Data Types
+- [ ] Data Structures in Python
